@@ -1,0 +1,9 @@
+[
+  "tests/test_nlp.py::test_aspect_extraction_english_and_hinglish",
+  "tests/test_nlp.py::test_multi_aspect_splitting",
+  "tests/test_nlp.py::test_rating_mismatch_detection",
+  "tests/test_nlp.py::test_sentiment_analysis",
+  "tests/test_prioritize.py::test_channel_weighting_impact",
+  "tests/test_prioritize.py::test_food_safety_hard_rule_is_critical",
+  "tests/test_prioritize.py::test_why_ranked_explanation_generated"
+]
